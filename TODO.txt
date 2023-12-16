@@ -1,0 +1,35 @@
+IMPORTANT FEATURES
+-Investigate a countries API (chatGPT) and implement it (with backend and frontend) https://restcountries.com/
+-Consume some data and show it in the front only to test it
+-Create a card with info of the countries, select the important info (capital, populacion, area, language, etc), images, flag and distribution
+-Add a world map (or maybe a continental map) with the card's country highlighted ON THE CARD
+-Create some wireframes or sketch with the cards, features, etc
+-Category filters (Continents and some others filters like geography, climate, areas)
+-Searchbar for the countries to search one card by name (on top of the web, header)
+-Interactive maps --> One map when you pass the cursor over the country it flash and tells the name
+-Favs system, using some kind of emoji like the ecommerce-camisetas-futbol
+-Visited countries / Pending to visit --> In this section add an interactive map where you can see highlighted all the countries you visited
+-Select a logo and a footer
+-Build a vertical navbar on the left side of the web
+-Notifications when you add a country to favourites, pending or visited
+-Error 404 page
+-
+-
+
+-Select and define a style and implement it all across the app (it can be some borders with violet like neon ligths)
+-Investigate about bootstrap and material-UI (Select one)
+-Install all npm dependencies that I will use (bootstrap/material-UI, sass, toastify, spinners, react-router-dom)
+-Add a page about me with some contact info
+-Form with contact info, questions and that kind of stuff
+-
+
+
+
+LONG TERM FEATURES
+-User management --> Register and authentication
+-Playroom area (Questions, quiz, memotest, flags, etc)
+-Achievements system
+-Add a database or at least using some data.json where you can write and delete (CRUD)
+-Add an area where you can go and read some random facts about countries and general
+-
+-
